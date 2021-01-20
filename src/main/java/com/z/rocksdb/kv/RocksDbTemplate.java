@@ -1,8 +1,4 @@
-/*
- * www.zdsoft.cn Inc.
- * Copyright (c) 2005-2017 All Rights Reserved.
- */
-package com.z.kv;
+package com.z.rocksdb.kv;
 
 import org.rocksdb.RocksDBException;
 
